@@ -1,5 +1,5 @@
 li {
-    display: inline; 
+    display: inline-block; 
 }
 .left-nav {
     float: left;
@@ -16,6 +16,8 @@ footer {
     bottom: 0;
     width: 100%;
     background-color: lightgrey;
+    display: block;
+    text-decoration: none;
 }
 header {
     position: fixed;
@@ -28,6 +30,9 @@ header {
     padding: 10px;
 }
 .sbox {
+    background-image: url(mic.PNG), url(Mag.PNG);
+    background-position: right, left;
+    background-repeat: no-repeat;
     width: 50em;
     height: 3em;
     margin-bottom: 2em;

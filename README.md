@@ -16,3 +16,11 @@ just set a css rule for all DIV.
 The CSS grid system is brand new to me. I knew that web pages were designed in basically blocks with HTML (Which i've been using since 
 middle school and Neopets.com) I just didn't know that CSS has tools to really help define the grid layout options. 
 
+FINAL NOTES:
+
+Phew! this first solo project was a doozy! I've had the most difficult time with the layout. Finally I was able to get it all lined up 
+and then suddenly the "blocks image and profile image" icons shrunk and i've got no idea why. 
+
+I completely deleted and started over three times and am 85% happy with this final project. solid B haha. Im going to move on and get my 
+mind off of it for a little while then come back to it in a few days. There are a few projects on freecodetutorials that ill dive into
+and hopefully get my skills up!
